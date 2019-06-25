@@ -20,6 +20,10 @@
 All commands used throughout this document
 
 ```bash
+# Install library
+cd lib
+npm install
+
 # Create S3 bucket
 aws s3 mb s3://BUCKET_NAME
 
